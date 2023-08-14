@@ -3,4 +3,4 @@ Repository related to submissions on the Dicoding Academy learning platform - We
 
 Acces the website on this link : <a href="https://dasar-pemrograman-web.netlify.app/">Click Here!</a>
 <br>
-<img src="" alt="Home Screen">
+![Website Page](https://github.com/rizkimaul470/Dicoding-Dasar-Pemrograman-Web/blob/main/website-page.png?raw=true)
